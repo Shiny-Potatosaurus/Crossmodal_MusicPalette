@@ -22,5 +22,5 @@ npm install
 1. turn on the terminal
 2. git clone this repository
 3. change to your root directory
-4. run app.py on you terminal
+4. run app.py on your terminal
 5. enter to http://192.168.0.6:8080/
